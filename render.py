@@ -1,4 +1,4 @@
-"""투혼(闘魂) 스타일 생성기: posts.json -> out/<id>.jpg (+ 릴스용 out/<id>.mp4)
+"""수라(修羅) 스타일 생성기: posts.json -> out/<id>.jpg (+ 릴스용 out/<id>.mp4)
 사용법: python render.py [--video] [--all]"""
 import json, html, sys, subprocess, shutil
 from pathlib import Path

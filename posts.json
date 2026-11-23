@@ -1,13 +1,13 @@
 {
-  "brand": "闘魂",
-  "brand_kr": "투혼",
+  "brand": "修羅",
+  "brand_kr": "수라",
   "handle": "@tokon.discipline",
   "posts": [
     {
       "id": "00_intro",
       "type": "emblem",
-      "line": "적은 밖에 없다. 매일 아침, 침대 위에 있다.",
-      "caption": "闘魂 (투혼)\n싸우는 혼.\n\n세상과 싸우기 전에, 아침마다 나와 먼저 싸우는 남자들의 기록.\n\n#투혼 #자기관리 #규율 #discipline #남자자기계발",
+      "line": "싸움이 끝나는 날은, 내가 멈추는 날이다.",
+      "caption": "修羅 (수라)\n끝없이 싸우는 자.\n\n편안함과 타협하지 않기로 한 남자들의 기록.\n\n#수라 #자기관리 #규율 #discipline #남자자기계발",
       "status": "approved"
     },
     {
@@ -15,7 +15,7 @@
       "latin": "Gutta cavat lapidem",
       "kr": "물방울이 바위를 뚫는다.",
       "body": "한 방울은 아무것도 바꾸지 못한다.\n\n바위가 갈라지는 건\n마지막 한 방울 때문이 아니라\n멈추지 않은 수천 번 때문이다.",
-      "caption": "Gutta cavat lapidem.\n물방울이 바위를 뚫는다.\n\n오늘의 한 방울을 떨어뜨렸는가.\n\n#투혼 #자기관리 #꾸준함 #discipline",
+      "caption": "Gutta cavat lapidem.\n물방울이 바위를 뚫는다.\n\n오늘의 한 방울을 떨어뜨렸는가.\n\n#수라 #자기관리 #꾸준함 #discipline",
       "status": "approved"
     },
     {
@@ -23,7 +23,7 @@
       "latin": "Dolor hic tibi proderit olim",
       "kr": "이 고통은 언젠가 너를 쓸모 있게 하리라.",
       "body": "끝까지 버틴 마지막 한 세트,\n삼켜낸 한 번의 거절.\n\n사라진 게 아니다.\n전부 네 안에 쌓이고 있다.",
-      "caption": "Dolor hic tibi proderit olim.\n이 고통은 언젠가 너를 쓸모 있게 하리라.\n\n#투혼 #운동 #자기관리 #discipline",
+      "caption": "Dolor hic tibi proderit olim.\n이 고통은 언젠가 너를 쓸모 있게 하리라.\n\n#수라 #운동 #자기관리 #discipline",
       "status": "approved"
     },
     {
@@ -31,7 +31,7 @@
       "latin": "Nec spe nec metu",
       "kr": "희망도 없이, 두려움도 없이.",
       "body": "결과를 기대하지 마라.\n실패를 계산하지 마라.\n\n둘 다 내려놓은 자리에\n해야 할 일만 남는다.",
-      "caption": "Nec spe nec metu.\n희망도 없이, 두려움도 없이.\n\n#투혼 #마인드셋 #자기관리 #discipline",
+      "caption": "Nec spe nec metu.\n희망도 없이, 두려움도 없이.\n\n#수라 #마인드셋 #자기관리 #discipline",
       "status": "approved"
     },
     {
@@ -39,7 +39,7 @@
       "latin": "Aut viam inveniam aut faciam",
       "kr": "길을 찾거나, 길을 만들거나.",
       "body": "막혔다는 말은\n아직 벽을 부숴보지 않았다는\n고백에 불과하다.",
-      "caption": "Aut viam inveniam aut faciam.\n길을 찾거나, 길을 만들거나.\n\n#투혼 #자기관리 #도전 #discipline",
+      "caption": "Aut viam inveniam aut faciam.\n길을 찾거나, 길을 만들거나.\n\n#수라 #자기관리 #도전 #discipline",
       "status": "approved"
     },
     {
@@ -47,7 +47,7 @@
       "latin": "Hic manebimus optime",
       "kr": "여기서 버티는 것이 최선이다.",
       "body": "모두가 등을 돌리는 지점.\n\n거기서 한 걸음 더 버틴 사람만\n다른 풍경을 본다.",
-      "caption": "Hic manebimus optime.\n여기서 버티는 것이 최선이다.\n\n#투혼 #버티기 #자기관리 #discipline",
+      "caption": "Hic manebimus optime.\n여기서 버티는 것이 최선이다.\n\n#수라 #버티기 #자기관리 #discipline",
       "status": "approved"
     },
     {
@@ -55,7 +55,7 @@
       "latin": "Malo mori quam foedari",
       "kr": "더럽혀지느니 차라리 죽음을.",
       "body": "타협 한 번은 작아 보인다.\n\n하지만 기준이 무너지는 건\n언제나 그 한 번에서 시작된다.",
-      "caption": "Malo mori quam foedari.\n더럽혀지느니 차라리 죽음을.\n\n기준은 지키라고 있는 것이다.\n\n#투혼 #기준 #자기관리 #discipline",
+      "caption": "Malo mori quam foedari.\n더럽혀지느니 차라리 죽음을.\n\n기준은 지키라고 있는 것이다.\n\n#수라 #기준 #자기관리 #discipline",
       "status": "approved"
     },
     {
@@ -63,7 +63,7 @@
       "latin": "Fugit irreparabile tempus",
       "kr": "돌이킬 수 없는 시간이 달아난다.",
       "body": "알람을 끄고 다시 누운 10분.\n\n그 시간은 어디에도 남지 않는다.\n되돌릴 수 있는 아침은 없다.",
-      "caption": "Fugit irreparabile tempus.\n돌이킬 수 없는 시간이 달아난다.\n\n오늘 아침, 몇 분을 잃었는가.\n\n#투혼 #시간관리 #자기관리 #discipline",
+      "caption": "Fugit irreparabile tempus.\n돌이킬 수 없는 시간이 달아난다.\n\n오늘 아침, 몇 분을 잃었는가.\n\n#수라 #시간관리 #자기관리 #discipline",
       "status": "draft"
     },
     {
@@ -71,7 +71,7 @@
       "latin": "Numquam minus solus quam cum solus",
       "kr": "혼자일 때보다 덜 혼자인 때는 없다.",
       "body": "다들 모인 금요일 밤,\n혼자 책상 앞에 앉아 있다.\n\n외로운 게 아니다.\n드디어 나와 단둘이 된 것이다.",
-      "caption": "Numquam minus solus quam cum solus.\n혼자일 때보다 덜 혼자인 때는 없다.\n\n키케로가 『의무론』에 남긴 스키피오의 말.\n\n#투혼 #고독 #자기관리 #discipline",
+      "caption": "Numquam minus solus quam cum solus.\n혼자일 때보다 덜 혼자인 때는 없다.\n\n키케로가 『의무론』에 남긴 스키피오의 말.\n\n#수라 #고독 #자기관리 #discipline",
       "status": "draft"
     },
     {
@@ -79,7 +79,55 @@
       "latin": "Nulla dies sine linea",
       "kr": "선 하나 긋지 않은 날은 없다.",
       "body": "컨디션 좋은 날엔 누구나 한다.\n\n몸살 난 날에도, 야근한 날에도\n한 줄은 긋고 잔다.\n그게 집착이다.",
-      "caption": "Nulla dies sine linea.\n선 하나 긋지 않은 날은 없다.\n\n플리니우스가 기록한 화가 아펠레스의 습관.\n\n#투혼 #집착 #습관 #discipline",
+      "caption": "Nulla dies sine linea.\n선 하나 긋지 않은 날은 없다.\n\n플리니우스가 기록한 화가 아펠레스의 습관.\n\n#수라 #집착 #습관 #discipline",
+      "status": "draft"
+    },
+    {
+      "id": "10",
+      "latin": "Ferro ignique",
+      "kr": "쇠와 불로.",
+      "body": "미지근한 불에서는\n아무것도 단련되지 않는다.\n\n너를 태우는 그 열이\n너를 강철로 만든다.",
+      "caption": "Ferro ignique.\n쇠와 불로.\n\n#수라 #단련 #자기관리 #discipline",
+      "status": "draft"
+    },
+    {
+      "id": "11",
+      "latin": "Fortis in arduis",
+      "kr": "역경 속에서 강하다.",
+      "body": "평온할 때 강한 척은\n누구나 한다.\n\n무너질 이유가 백 개일 때\n서 있는 사람이 진짜다.",
+      "caption": "Fortis in arduis.\n역경 속에서 강하다.\n\n#수라 #멘탈 #자기관리 #discipline",
+      "status": "draft"
+    },
+    {
+      "id": "12",
+      "latin": "Non ducor, duco",
+      "kr": "나는 끌려가지 않는다. 이끈다.",
+      "body": "남이 정한 속도로 걷는 순간\n네 인생은 남의 것이 된다.\n\n속도는 네가 정한다.",
+      "caption": "Non ducor, duco.\n나는 끌려가지 않는다. 이끈다.\n\n#수라 #리더십 #자기관리 #discipline",
+      "status": "draft"
+    },
+    {
+      "id": "13",
+      "latin": "Fluctuat nec mergitur",
+      "kr": "흔들리되, 가라앉지 않는다.",
+      "body": "흔들려도 된다.\n가라앉지만 마라.\n\n폭풍은 배를 시험할 뿐\n선장을 정하지는 않는다.",
+      "caption": "Fluctuat nec mergitur.\n흔들리되, 가라앉지 않는다.\n\n#수라 #버티기 #자기관리 #discipline",
+      "status": "draft"
+    },
+    {
+      "id": "14",
+      "latin": "Mors certa, hora incerta",
+      "kr": "죽음은 확실하고, 그 시각은 모른다.",
+      "body": "언젠가 하겠다는 말.\n\n그 '언젠가'보다\n시간이 먼저 끝날 수도 있다.",
+      "caption": "Mors certa, hora incerta.\n죽음은 확실하고, 그 시각은 모른다.\n\n#수라 #시간 #자기관리 #discipline",
+      "status": "draft"
+    },
+    {
+      "id": "15",
+      "latin": "Usque ad finem",
+      "kr": "끝까지.",
+      "body": "중간에 멈춘 자는\n출발하지 않은 자와\n같은 자리에 선다.\n\n갈 거면, 끝까지 가라.",
+      "caption": "Usque ad finem.\n끝까지.\n\n#수라 #끝까지 #자기관리 #discipline",
       "status": "draft"
     }
   ]
