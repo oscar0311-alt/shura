@@ -1,0 +1,86 @@
+{
+  "brand": "闘魂",
+  "brand_kr": "투혼",
+  "handle": "@tokon.discipline",
+  "posts": [
+    {
+      "id": "00_intro",
+      "type": "emblem",
+      "line": "적은 밖에 없다. 매일 아침, 침대 위에 있다.",
+      "caption": "闘魂 (투혼)\n싸우는 혼.\n\n세상과 싸우기 전에, 아침마다 나와 먼저 싸우는 남자들의 기록.\n\n#투혼 #자기관리 #규율 #discipline #남자자기계발",
+      "status": "approved"
+    },
+    {
+      "id": "01",
+      "latin": "Gutta cavat lapidem",
+      "kr": "물방울이 바위를 뚫는다.",
+      "body": "한 방울은 아무것도 바꾸지 못한다.\n\n바위가 갈라지는 건\n마지막 한 방울 때문이 아니라\n멈추지 않은 수천 번 때문이다.",
+      "caption": "Gutta cavat lapidem.\n물방울이 바위를 뚫는다.\n\n오늘의 한 방울을 떨어뜨렸는가.\n\n#투혼 #자기관리 #꾸준함 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "02",
+      "latin": "Dolor hic tibi proderit olim",
+      "kr": "이 고통은 언젠가 너를 쓸모 있게 하리라.",
+      "body": "끝까지 버틴 마지막 한 세트,\n삼켜낸 한 번의 거절.\n\n사라진 게 아니다.\n전부 네 안에 쌓이고 있다.",
+      "caption": "Dolor hic tibi proderit olim.\n이 고통은 언젠가 너를 쓸모 있게 하리라.\n\n#투혼 #운동 #자기관리 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "03",
+      "latin": "Nec spe nec metu",
+      "kr": "희망도 없이, 두려움도 없이.",
+      "body": "결과를 기대하지 마라.\n실패를 계산하지 마라.\n\n둘 다 내려놓은 자리에\n해야 할 일만 남는다.",
+      "caption": "Nec spe nec metu.\n희망도 없이, 두려움도 없이.\n\n#투혼 #마인드셋 #자기관리 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "04",
+      "latin": "Aut viam inveniam aut faciam",
+      "kr": "길을 찾거나, 길을 만들거나.",
+      "body": "막혔다는 말은\n아직 벽을 부숴보지 않았다는\n고백에 불과하다.",
+      "caption": "Aut viam inveniam aut faciam.\n길을 찾거나, 길을 만들거나.\n\n#투혼 #자기관리 #도전 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "05",
+      "latin": "Hic manebimus optime",
+      "kr": "여기서 버티는 것이 최선이다.",
+      "body": "모두가 등을 돌리는 지점.\n\n거기서 한 걸음 더 버틴 사람만\n다른 풍경을 본다.",
+      "caption": "Hic manebimus optime.\n여기서 버티는 것이 최선이다.\n\n#투혼 #버티기 #자기관리 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "06",
+      "latin": "Malo mori quam foedari",
+      "kr": "더럽혀지느니 차라리 죽음을.",
+      "body": "타협 한 번은 작아 보인다.\n\n하지만 기준이 무너지는 건\n언제나 그 한 번에서 시작된다.",
+      "caption": "Malo mori quam foedari.\n더럽혀지느니 차라리 죽음을.\n\n기준은 지키라고 있는 것이다.\n\n#투혼 #기준 #자기관리 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "07",
+      "latin": "Fugit irreparabile tempus",
+      "kr": "돌이킬 수 없는 시간이 달아난다.",
+      "body": "알람을 끄고 다시 누운 10분.\n\n그 시간은 어디에도 남지 않는다.\n되돌릴 수 있는 아침은 없다.",
+      "caption": "Fugit irreparabile tempus.\n돌이킬 수 없는 시간이 달아난다.\n\n오늘 아침, 몇 분을 잃었는가.\n\n#투혼 #시간관리 #자기관리 #discipline",
+      "status": "draft"
+    },
+    {
+      "id": "08",
+      "latin": "Numquam minus solus quam cum solus",
+      "kr": "혼자일 때보다 덜 혼자인 때는 없다.",
+      "body": "다들 모인 금요일 밤,\n혼자 책상 앞에 앉아 있다.\n\n외로운 게 아니다.\n드디어 나와 단둘이 된 것이다.",
+      "caption": "Numquam minus solus quam cum solus.\n혼자일 때보다 덜 혼자인 때는 없다.\n\n키케로가 『의무론』에 남긴 스키피오의 말.\n\n#투혼 #고독 #자기관리 #discipline",
+      "status": "draft"
+    },
+    {
+      "id": "09",
+      "latin": "Nulla dies sine linea",
+      "kr": "선 하나 긋지 않은 날은 없다.",
+      "body": "컨디션 좋은 날엔 누구나 한다.\n\n몸살 난 날에도, 야근한 날에도\n한 줄은 긋고 잔다.\n그게 집착이다.",
+      "caption": "Nulla dies sine linea.\n선 하나 긋지 않은 날은 없다.\n\n플리니우스가 기록한 화가 아펠레스의 습관.\n\n#투혼 #집착 #습관 #discipline",
+      "status": "draft"
+    }
+  ]
+}

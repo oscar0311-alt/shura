@@ -1,0 +1,33 @@
+<!DOCTYPE html><html><head><meta charset="utf-8">
+<link rel="stylesheet" href="fonts/yujisyuku/index.css">
+<style>
+:root{--blue:#6E8FC4;--blue-deep:#0F1724;--blue-ink:#16202F}
+*{margin:0;padding:0;box-sizing:border-box}
+html,body{width:1080px;height:1350px;background:#040506;overflow:hidden}
+body{position:relative;color:#EDEDED;font-family:"Noto Serif CJK KR",serif}
+.grain{position:absolute;inset:0;opacity:.22;mix-blend-mode:screen;background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='400'><filter id='n'><feTurbulence type='fractalNoise' baseFrequency='.85' numOctaves='3' stitchTiles='stitch'/><feColorMatrix values='0 0 0 0 .5  0 0 0 0 .5  0 0 0 0 .5  0 0 0 .35 0'/></filter><rect width='100%' height='100%' filter='url(%23n)'/></svg>");z-index:5;pointer-events:none}
+.glow{position:absolute;inset:0;z-index:0;background:radial-gradient(ellipse 70% 45% at 50% 48%,rgba(60,90,140,.16),transparent 70%)}
+.vig{position:absolute;inset:0;background:radial-gradient(ellipse at 50% 50%,transparent 40%,rgba(0,0,0,.88) 100%);z-index:4}
+.brush{font-family:"Yuji Syuku";white-space:nowrap;filter:url(#rough)}
+/* quote */
+.mark{position:absolute;left:50%;top:50%;transform:translate(-50%,-50%);font-size:500px;line-height:1;color:var(--blue-ink);letter-spacing:-10px;z-index:1}
+.center{position:absolute;inset:0;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;z-index:3;padding:0 110px}
+.latin{font-size:38px;letter-spacing:3px;font-style:italic;color:var(--blue)}
+.kr{font-size:42px;font-weight:700;margin-top:18px;color:#F4F4F4;letter-spacing:-.5px}
+.line{width:40px;height:2px;background:var(--blue);margin:54px 0;opacity:.8}
+.body{white-space:pre-line;font-size:36px;line-height:1.8;color:#B9BCC2;font-weight:500}
+.sign{position:absolute;bottom:104px;left:0;right:0;text-align:center;z-index:3}
+.sign b{font-family:"Yuji Syuku";font-weight:400;font-size:44px;letter-spacing:10px;color:#E6E6E6}
+.sign i{display:block;width:6px;height:6px;border-radius:50%;background:var(--blue);margin:0 auto 18px}
+/* emblem */
+.wash{position:absolute;inset:0;z-index:0;background:radial-gradient(ellipse at 50% 42%,#2A3446 0%,#121822 50%,#040506 100%)}
+.splat{position:absolute;inset:0;z-index:1;filter:url(#rough2);opacity:.5}
+.big{position:absolute;left:50%;top:43%;transform:translate(-50%,-50%);font-size:500px;line-height:1;color:#E9E9E9;letter-spacing:-6px;z-index:2;text-shadow:0 0 60px rgba(110,143,196,.25)}
+.tag{position:absolute;bottom:150px;left:0;right:0;text-align:center;z-index:6;font-size:38px;letter-spacing:1px;color:#EDEDED;font-weight:600}
+.tag small{display:block;margin-top:26px;font-size:26px;letter-spacing:14px;color:var(--blue)}
+</style></head>
+<body class="{{cls}}">
+<svg width="0" height="0" style="position:absolute"><filter id="rough"><feTurbulence type="fractalNoise" baseFrequency="0.04" numOctaves="4" seed="{{seed}}" result="t"/><feDisplacementMap in="SourceGraphic" in2="t" scale="16"/></filter>
+<filter id="rough2"><feTurbulence type="fractalNoise" baseFrequency=".02" numOctaves="5" seed="{{seed}}"/><feColorMatrix values="0 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 -9 4.2"/></filter></svg>
+<div class="glow"></div>{{content}}<div class="vig"></div><div class="grain"></div>
+</body></html>

@@ -1,0 +1,18 @@
+_page.html
+_c.html
+preview.jpg
+__pycache__/
+.env
+
+# 비밀값·인증 파일
+.env.*
+*.pem
+*.key
+*token*.txt
+secrets*.json
+credentials*.json
+.claude/settings.local.json
+
+# Windows / OneDrive
+Thumbs.db
+desktop.ini
