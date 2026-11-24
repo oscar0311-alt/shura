@@ -2,10 +2,11 @@
 
 필요한 환경 변수 (GitHub Secrets에 저장):
   IG_USER_ID       인스타그램 프로페셔널 계정 ID
-  IG_ACCESS_TOKEN  Instagram API (Instagram 로그인 방식) 장기 액세스 토큰
+  IG_ACCESS_TOKEN  장기 액세스 토큰. 페이스북 로그인 방식(EAA로 시작) 토큰이 기본
   MEDIA_BASE_URL   out/ 폴더가 공개로 열려 있는 주소. 예) https://raw.githubusercontent.com/<아이디>/<저장소>/main/out
 선택:
   IG_POST_AS       "image"(기본) 또는 "reel"
+  GRAPH_HOST       기본 graph.facebook.com. Instagram 로그인 방식 토큰이면 graph.instagram.com
   GRAPH_VERSION    기본 v25.0
 """
 import json, os, sys, time, urllib.parse, urllib.request
@@ -13,7 +14,8 @@ from datetime import datetime, timezone
 from pathlib import Path
 
 ROOT = Path(__file__).parent
-API = f"https://graph.instagram.com/{os.environ.get('GRAPH_VERSION', 'v25.0')}"
+HOST = os.environ.get("GRAPH_HOST", "").strip().removeprefix("https://").removeprefix("http://").strip("/") or "graph.facebook.com"
+API = f"https://{HOST}/{os.environ.get('GRAPH_VERSION', 'v25.0')}"
 
 def call(path, params, method="POST"):
     data = urllib.parse.urlencode({**params, "access_token": os.environ["IG_ACCESS_TOKEN"]})
