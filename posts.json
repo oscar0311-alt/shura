@@ -68,7 +68,7 @@
       "kr": "돌이킬 수 없는 시간이 달아난다.",
       "body": "알람을 끄고 다시 누운 10분.\n\n그 시간은 어디에도 남지 않는다.\n되돌릴 수 있는 아침은 없다.",
       "caption": "Fugit irreparabile tempus.\n돌이킬 수 없는 시간이 달아난다.\n\n오늘 아침, 몇 분을 잃었는가.\n\n#수라 #시간관리 #자기관리 #discipline",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "id": "08",
@@ -76,7 +76,7 @@
       "kr": "혼자일 때보다 덜 혼자인 때는 없다.",
       "body": "다들 모인 금요일 밤,\n혼자 책상 앞에 앉아 있다.\n\n외로운 게 아니다.\n드디어 나와 단둘이 된 것이다.",
       "caption": "Numquam minus solus quam cum solus.\n혼자일 때보다 덜 혼자인 때는 없다.\n\n키케로가 『의무론』에 남긴 스키피오의 말.\n\n#수라 #고독 #자기관리 #discipline",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "id": "09",
@@ -84,7 +84,7 @@
       "kr": "선 하나 긋지 않은 날은 없다.",
       "body": "컨디션 좋은 날엔 누구나 한다.\n\n몸살 난 날에도, 야근한 날에도\n한 줄은 긋고 잔다.\n그게 집착이다.",
       "caption": "Nulla dies sine linea.\n선 하나 긋지 않은 날은 없다.\n\n플리니우스가 기록한 화가 아펠레스의 습관.\n\n#수라 #집착 #습관 #discipline",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "id": "10",
@@ -92,7 +92,7 @@
       "kr": "쇠와 불로.",
       "body": "미지근한 불에서는\n아무것도 단련되지 않는다.\n\n너를 태우는 그 열이\n너를 강철로 만든다.",
       "caption": "Ferro ignique.\n쇠와 불로.\n\n#수라 #단련 #자기관리 #discipline",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "id": "11",
@@ -100,7 +100,7 @@
       "kr": "역경 속에서 강하다.",
       "body": "평온할 때 강한 척은\n누구나 한다.\n\n무너질 이유가 백 개일 때\n서 있는 사람이 진짜다.",
       "caption": "Fortis in arduis.\n역경 속에서 강하다.\n\n#수라 #멘탈 #자기관리 #discipline",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "id": "12",
@@ -108,7 +108,7 @@
       "kr": "나는 끌려가지 않는다. 이끈다.",
       "body": "남이 정한 속도로 걷는 순간\n네 인생은 남의 것이 된다.\n\n속도는 네가 정한다.",
       "caption": "Non ducor, duco.\n나는 끌려가지 않는다. 이끈다.\n\n#수라 #리더십 #자기관리 #discipline",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "id": "13",
@@ -116,7 +116,7 @@
       "kr": "흔들리되, 가라앉지 않는다.",
       "body": "흔들려도 된다.\n가라앉지만 마라.\n\n폭풍은 배를 시험할 뿐\n선장을 정하지는 않는다.",
       "caption": "Fluctuat nec mergitur.\n흔들리되, 가라앉지 않는다.\n\n#수라 #버티기 #자기관리 #discipline",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "id": "14",
@@ -124,7 +124,7 @@
       "kr": "죽음은 확실하고, 그 시각은 모른다.",
       "body": "언젠가 하겠다는 말.\n\n그 '언젠가'보다\n시간이 먼저 끝날 수도 있다.",
       "caption": "Mors certa, hora incerta.\n죽음은 확실하고, 그 시각은 모른다.\n\n#수라 #시간 #자기관리 #discipline",
-      "status": "draft"
+      "status": "approved"
     },
     {
       "id": "15",
@@ -132,7 +132,63 @@
       "kr": "끝까지.",
       "body": "중간에 멈춘 자는\n출발하지 않은 자와\n같은 자리에 선다.\n\n갈 거면, 끝까지 가라.",
       "caption": "Usque ad finem.\n끝까지.\n\n#수라 #끝까지 #자기관리 #discipline",
-      "status": "draft"
+      "status": "approved"
+    },
+    {
+      "id": "16",
+      "latin": "Nemo liber est qui corpori servit",
+      "kr": "몸을 섬기는 자는 누구도 자유롭지 않다.",
+      "body": "더 자고 싶다는 몸.\n한 입만 더 먹자는 몸.\n\n몸이 시키는 대로 사는 자는\n주인이 아니라 하인이다.",
+      "caption": "Nemo liber est qui corpori servit.\n몸을 섬기는 자는 누구도 자유롭지 않다.\n\n세네카, 『루킬리우스에게 보내는 편지』 92.\n\n#수라 #규율 #자기관리 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "17",
+      "latin": "Abeunt studia in mores",
+      "kr": "몰두한 것이 성품이 된다.",
+      "body": "석 달 매일 새벽에 뛰면\n더 이상 결심이 필요 없다.\n\n반복한 것이 결국\n네가 된다.",
+      "caption": "Abeunt studia in mores.\n몰두한 것이 성품이 된다.\n\n오비디우스, 『헤로이데스』 15.\n\n#수라 #집착 #습관 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "18",
+      "latin": "Ne cede malis",
+      "kr": "불행에 굴복하지 마라.",
+      "body": "불합격 문자를 받은 밤도,\n부상으로 벤치에 앉은 날도\n\n내일 할 일 하나는 정해놓고\n잠들어라.",
+      "caption": "Ne cede malis.\n불행에 굴복하지 마라.\n\n베르길리우스, 『아이네이스』 6권.\n\n#수라 #멘탈 #단련 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "19",
+      "latin": "Tempus edax rerum",
+      "kr": "시간은 모든 것을 먹어 치운다.",
+      "body": "미뤄둔 계획서,\n사두고 안 뜯은 운동화.\n\n시간은 그것부터 먹는다.",
+      "caption": "Tempus edax rerum.\n시간은 모든 것을 먹어 치운다.\n\n오늘 미룬 것은 무엇인가.\n\n#수라 #시간 #자기관리 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "20",
+      "latin": "Nec temere, nec timide",
+      "kr": "무모하지도, 소심하지도 않게.",
+      "body": "준비 없이 덤비는 건\n용기가 아니다.\n\n재기만 하다 놓친 기회도\n신중함이 아니다.",
+      "caption": "Nec temere, nec timide.\n무모하지도, 소심하지도 않게.\n\n폴란드 그단스크시의 표어.\n\n#수라 #기준 #판단 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "21",
+      "latin": "Omnia mea mecum porto",
+      "kr": "나의 모든 것을 나는 지니고 다닌다.",
+      "body": "직함도, 연봉도, 팔로워도\n한순간에 사라질 수 있다.\n\n끝까지 남는 건\n네 몸에 새긴 습관뿐이다.",
+      "caption": "Omnia mea mecum porto.\n나의 모든 것을 나는 지니고 다닌다.\n\n키케로가 전한 현자 비아스의 말.\n\n#수라 #고독 #자기관리 #discipline",
+      "status": "approved"
+    },
+    {
+      "id": "22",
+      "latin": "Sustine et abstine",
+      "kr": "견뎌라, 그리고 삼가라.",
+      "body": "새벽 알람 앞에선 견디고\n자정의 야식 앞에선 끊는다.\n\n견딜 것과 끊을 것.\n규율은 그 둘뿐이다.",
+      "caption": "Sustine et abstine.\n견뎌라, 그리고 삼가라.\n\n에픽테토스의 가르침을 라틴어로 옮긴 두 마디.\n\n#수라 #절제 #규율 #discipline",
+      "status": "approved"
     }
   ]
 }
